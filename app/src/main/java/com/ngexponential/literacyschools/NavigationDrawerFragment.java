@@ -1,4 +1,4 @@
-package com.ngexponential.literacyschool;
+package com.ngexponential.literacyschools;
 
 
 import android.app.Activity;

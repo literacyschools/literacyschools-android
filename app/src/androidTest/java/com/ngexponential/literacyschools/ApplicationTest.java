@@ -1,4 +1,4 @@
-package com.ngexponential.literacyschool;
+package com.ngexponential.literacyschools;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
