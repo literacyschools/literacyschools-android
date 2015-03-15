@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LiteracySchool.iml" filepath="$PROJECT_DIR$/LiteracySchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiteracySchools.iml" filepath="$PROJECT_DIR$/LiteracySchools.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/literacyschools-android.iml" filepath="$PROJECT_DIR$/literacyschools-android.iml" />
     </modules>
   </component>
 </project>
